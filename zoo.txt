@@ -1,3 +1,3 @@
 lion
-monkey
 panda
+Gazelle
