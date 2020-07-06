@@ -1,3 +1,5 @@
 lion
 panda
 gazelle
+giraffe
+elephant
